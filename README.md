@@ -9,6 +9,9 @@ and this makes me eager to work and advance in computer programming.
 
 ---
 <div id="badges">
+   <a href="https://amirkamizi.com">
+    <img src="https://img.shields.io/badge/amirkamizi.com-gray?style=for-the-badge&logoColor=white" alt="Website Badge"/>      
+  </a>
    <a href="https://twitter.com/amir_kamizi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>      
   </a>
